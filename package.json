@@ -1,0 +1,27 @@
+{
+  "name": "Tessel-Sumobot",
+  "version": "0.0.0",
+  "description": "Tessel-Sumobot ==============",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Frijol/Tessel-Sumobot.git"
+  },
+  "keywords": [
+    "tessel",
+    "sumobot",
+    "servo"
+  ],
+  "author": "Kelsey Breseman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Frijol/Tessel-Sumobot/issues"
+  },
+  "homepage": "https://github.com/Frijol/Tessel-Sumobot",
+  "dependencies": {
+    "servo-pca9685": "^0.1.2"
+  }
+}
